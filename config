@@ -1,0 +1,9 @@
+<?php
+include("../config/config.php");
+include("../commonfolders/send_mails/check_Mail.php");
+include('../webcontrollers/api_get_path.php');
+include('../webcontrollers/globle_fun.php');
+include('../webcontrollers/user_information.php');
+include('../webcontrollers/cryptography.php');
+	?>
+
