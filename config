@@ -5,5 +5,7 @@ include('../webcontrollers/api_get_path.php');
 include('../webcontrollers/globle_fun.php');
 include('../webcontrollers/user_information.php');
 include('../webcontrollers/cryptography.php');
+
+Test
 	?>
 
